@@ -1,3 +1,6 @@
+# PEACHES WAGITHI NJENGA 
+# SCT211-0004/2022
+
 class Calculator:
 	def __init__(self, num1, num2, operator) -> None:
 		self.num1 = num1
